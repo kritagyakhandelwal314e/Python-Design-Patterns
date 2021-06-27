@@ -34,3 +34,5 @@ relationships.add_parent_and_child(parent=parent, child=child1)
 relationships.add_parent_and_child(parent=parent, child=child2)
 
 Research(relationships)
+
+# TODO: Refactoring according to the principle pending
